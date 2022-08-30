@@ -16,6 +16,10 @@ body {
   font-weight: 400;
 }
 
+main {
+  margin-top: 9rem;
+}
+
 .attribution {
   margin-bottom: 0.5rem;
   font-size: 11px; 
@@ -47,7 +51,7 @@ body {
   font-size: 1.5rem;
 }
 
-.balance-card h2 {
+.balance-card h1 {
   color: var(--cream);
   font-size: 16px;
   margin-bottom: 0.5rem;
